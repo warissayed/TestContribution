@@ -8,3 +8,4 @@
 - Continued daily contributions
 - Maintaining streak
 Morning contribution
+Afternoon contribution
